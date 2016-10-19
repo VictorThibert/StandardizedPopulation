@@ -1,0 +1,7 @@
+-http://web.archive.org/web/20150419013313/http://bmander.com/dotmap/methods.html
+-http://www.coopercenter.org/demographics/Racial-Dot-Map (Dustin)
+-https://github.com/unorthodox123/RacialDotMap/blob/master/dotfile.py (Dustin)
+*https://github.com/meetar/dotmap    
+-https://gist.github.com/anonymous/4385412
+
++https://data2.nhgis.org/main
