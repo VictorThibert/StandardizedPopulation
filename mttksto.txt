@@ -5,3 +5,7 @@
 -https://gist.github.com/anonymous/4385412
 
 +https://data2.nhgis.org/main
+
+
++https://www.census.gov/geo/maps-data/data/baf_description.html
++https://www.fcc.gov/general/census-block-conversions-api
