@@ -1,0 +1,6 @@
+- heatmap of block population
+- expanding radius
+- moving start
+- density colour inside circle
+- city proper boundaries
+- census block outlines
