@@ -1,0 +1,19 @@
+-for each census block
+  -assign to a MSA
+  -assign a population value
+  -assign a coordinate
+  -retain shapefile value (for GIS & viz)
+  -assign CBD 0 or 1 value
+  
+-store in db (per city)
+
+-python script
+  -for each CBD census block
+    -expand radius (keep track of total area) (at some increment)
+    -each time new block within radius
+      -add population of that block to counter
+      -check new density (pop/area above threshold d)
+      -continue 
+      -if density dips below d
+        -keep track of CBD census start block and final population achieved
+  -compare all CBD start points and pick highest one
